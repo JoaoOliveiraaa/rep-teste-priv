@@ -1,0 +1,1 @@
+export { default } from "file:///C:/dev/rep-teste-priv/node_modules/@nuxt/vite-builder/dist/vite-node-entry.mjs"
